@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CamScannerAPI</string>
+    <string name="facebook_app_id">460259714520442</string>
+    <string name="facebook_login_protocol_scheme">fb460259714520442</string>
+
+    <string name="a_msg_no_pdf_activity">No activity for opening PDF file</string>
+    <string name="a_title_success">Success</string>
+    <string name="a_title_reject">Fail</string>
+    <string name="a_msg_cancel">User Cancel</string>
+    <string name="a_label_send_to_cs">Pick Image</string>
+
+    <string name="a_msg_api_success">Open API call Success</string>
+    <string name="a_msg_invalid_app">Invalid APP ID</string>
+    <string name="a_msg_invalid_source">Invalid image resouce</string>
+    <string name="a_msg_auth_expired">Authorization Expired</string>
+    <string name="a_msg_mode_unavailable">The choosen enhance mode is unavailable for this app_id</string>
+    <string name="a_msg_num_limit">Over the request number limit</string>
+    <string name="a_msg_store_jpg_error">CamScanner can\'t return scanned image file</string>
+    <string name="a_msg_store_pdf_error">CamScanner can\'t return scanned PDF file</string>
+    <string name="a_msg_store_org_error">CamScanner can\'t return original image file</string>
+    <string name="a_msg_app_unregistered">CamScanner can\'t return scanned file</string>
+    <string name="a_msg_api_version_illegal">This app is not regisered</string>
+    <string name="a_msg_device_limited">Over the device number limit</string>
+    <string name="a_msg_not_login">CamScanner user do not login</string>
+</resources>
